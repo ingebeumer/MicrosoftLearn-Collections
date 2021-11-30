@@ -13,7 +13,7 @@ Collections in my Microsoft Learn profile with various learning towards certific
 
 [Data Analyst Associate | DA-100 (exam 05-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/r46ka66qq5ge6e)
 
-[Azure Data Fundamentals | DP-900 (exam 10-2019)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwg5ny560)
+[Azure Data Fundamentals | DP-900 (exam 10-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwg5ny560)
 
 [Azure Database Administrator Associate | DP-300 (exam 09-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/3ng3txx5npz434)
 
