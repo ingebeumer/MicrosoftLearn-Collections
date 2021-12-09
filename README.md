@@ -6,6 +6,10 @@ Collections in my Microsoft Learn profile with various learning towards certific
 
 
 [Azure AI Fundamentals | AI-900](https://docs.microsoft.com/en-us/users/ingezb/collections/negmhzzrrw8x41)
+  
+- Labs for course AI-900T00-A [mslearn-ai900](https://microsoftlearning.github.io/mslearn-ai900/)
+- Digital Event [Put Responsible AI into Practice](https://info.microsoft.com/ww-put-responsible-ai-into-practice-On-Demand-Registration.html?lcid=en-us)
+
 
 [Azure Data Engineer Associate | DP-203 (exam 06-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/e240c667qe7q7w)
 
