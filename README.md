@@ -1,4 +1,4 @@
-# Microsoft Learn Collections
+# Microsoft Learn Collections and additional learning
 
 [database administrator](https://docs.microsoft.com/en-us/users/ingezb/collections/od32bkkjje42kx)
 
