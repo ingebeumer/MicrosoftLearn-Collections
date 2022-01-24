@@ -22,6 +22,7 @@ Collections in my Microsoft Learn profile and various additional learning toward
 - Book | [Weapons of math destruction](https://www.amazon.nl/gp/product/0141985410/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) by Cathy O'Neil
 - Nederlandse AI Coalitie | [De Nationale AI-Cursus – Kunstmatige Intelligentie voor iedereen!](https://www.ai-cursus.nl/)
 - Nederlandse AI Coalitie | [A free online introduction to artificial intelligence for non-experts (elementsofai.com)](https://www.elementsofai.com/?__geom=%E2%9C%AA&_ga=2.54991211.1792081650.1638191894-301432511.1638191894)
+- [AI for Good](https://aiforgood.itu.int/)
 
 ![image](https://user-images.githubusercontent.com/40343254/150646315-912cea8f-d8e7-4129-9570-cf49f466d154.png)
 [Azure Data Engineer Associate | DP-203 (exam 06-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/e240c667qe7q7w)
