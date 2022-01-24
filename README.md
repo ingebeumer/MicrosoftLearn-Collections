@@ -28,21 +28,24 @@ Microsoft Azure AI Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api
 - [AI for Good](https://aiforgood.itu.int/) and [AI for Good - YouTube](https://www.youtube.com/aiforgood)
 
 ---
-## ![Azure Data Engineer Associate | DP-203 badge](https://user-images.githubusercontent.com/40343254/150646315-912cea8f-d8e7-4129-9570-cf49f466d154.png) [Azure Data Engineer Associate | DP-203 (exam 06-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/e240c667qe7q7w) 
+## ![Azure Data Engineer Associate | DP-203 badge](https://user-images.githubusercontent.com/40343254/150646315-912cea8f-d8e7-4129-9570-cf49f466d154.png) [Azure Data Engineer Associate | DP-203](https://docs.microsoft.com/en-us/users/ingezb/collections/e240c667qe7q7w) | exam 06-2021
 
 ---
-## ![Azure Data Engineer Associate | DP-200+DP-201 badge](https://user-images.githubusercontent.com/40343254/150646316-e94257ae-e742-4fbd-894d-f8121cace0ba.png) [Azure Data Engineer Associate | DP-200+DP-201 (exams 05-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwmkropx5) 
+## ![Azure Data Engineer Associate | DP-200+DP-201 badge](https://user-images.githubusercontent.com/40343254/150646316-e94257ae-e742-4fbd-894d-f8121cace0ba.png) [Azure Data Engineer Associate | DP-200+DP-201](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwmkropx5) | [certified 05-2021](https://www.credly.com/earner/earned/badge/3482b830-a4a1-4799-9050-36b89084cc96)
 
 ---
-## ![Data Analyst Associate | DA-100 badge](https://user-images.githubusercontent.com/40343254/150646329-2d14fd48-4d6b-4276-8c4d-40e561efc8d6.png) [Data Analyst Associate | DA-100 (exam 05-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/r46ka66qq5ge6e) 
+## ![Data Analyst Associate | DA-100 badge](https://user-images.githubusercontent.com/40343254/150646329-2d14fd48-4d6b-4276-8c4d-40e561efc8d6.png) [Data Analyst Associate | DA-100](https://docs.microsoft.com/en-us/users/ingezb/collections/r46ka66qq5ge6e) | [certified 05-2021](https://www.credly.com/earner/earned/badge/846732de-93bf-4812-9146-6ecbc13900a7)
 
 ---
-## ![Azure Data Fundamentals | DP-900 badge](https://user-images.githubusercontent.com/40343254/150646694-234c44e7-3131-47f9-86b0-9dece863189c.png) [Azure Data Fundamentals | DP-900 (exam 10-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwg5ny560) 
+## ![Azure Data Fundamentals | DP-900 badge](https://user-images.githubusercontent.com/40343254/150646694-234c44e7-3131-47f9-86b0-9dece863189c.png) [Azure Data Fundamentals | DP-900](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwg5ny560) | [certified 10-2020](https://www.credly.com/earner/earned/badge/37600f7a-97f1-491f-a9a8-050492157f40)
 
 ---
-## ![Azure Database Administrator Associate | DP-300 badge](https://user-images.githubusercontent.com/40343254/150646705-571bd46f-6e4e-404e-8492-bee9f6298418.png) [Azure Database Administrator Associate | DP-300 (exam 09-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/3ng3txx5npz434) 
+## ![Azure Database Administrator Associate | DP-300 badge](https://user-images.githubusercontent.com/40343254/150646705-571bd46f-6e4e-404e-8492-bee9f6298418.png) [Azure Database Administrator Associate | DP-300](https://docs.microsoft.com/en-us/users/ingezb/collections/3ng3txx5npz434) | [certified 09-2020](https://www.credly.com/earner/earned/badge/fa4d4d25-a3be-4f19-91ef-583c52ac1acf)
 
 ---
-## ![Azure Fundamentals | AZ-900 badge](https://user-images.githubusercontent.com/40343254/150646713-a123cddb-8aaf-428f-9498-fce7a1a56ce7.png) [Azure Fundamentals | AZ-900 (exam 02-2019)](https://docs.microsoft.com/en-us/users/ingezb/collections/m12wu11e8ko38o) 
+## ![Azure Fundamentals | AZ-900 badge](https://user-images.githubusercontent.com/40343254/150646713-a123cddb-8aaf-428f-9498-fce7a1a56ce7.png) [Azure Fundamentals | AZ-900](https://docs.microsoft.com/en-us/users/ingezb/collections/m12wu11e8ko38o) | [certified 02-2019](https://www.credly.com/earner/earned/badge/ce18faeb-471e-4db2-9492-3fc1771d0429)
 
+---
+## ![70-473: Designing and Implementing Cloud Data Platform Solutions badge](https://user-images.githubusercontent.com/40343254/150779409-8258c595-409f-4d9c-ba90-bf5947f81fbd.png) Exam 70-473: Designing and Implementing Cloud Data Platform Solutions (exam retired) | [exam 12-2016](https://www.credly.com/earner/earned/badge/ccfa23c4-7cc5-4cc5-baf1-d4cc9d9901b4)
+ 
 ---
