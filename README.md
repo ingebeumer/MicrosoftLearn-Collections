@@ -2,10 +2,10 @@
 
 [database administrator](https://docs.microsoft.com/en-us/users/ingezb/collections/od32bkkjje42kx)
 
-Collections in my Microsoft Learn profile and various additional learning towards certification.
+> Collections in my Microsoft Learn profile and various additional learning towards certification.
 
-
-[Azure AI Fundamentals | AI-900](https://docs.microsoft.com/en-us/users/ingezb/collections/negmhzzrrw8x41)
+---
+## [Azure AI Fundamentals | AI-900](https://docs.microsoft.com/en-us/users/ingezb/collections/negmhzzrrw8x41)
   
 - Microsoft Events catalog | [Microsoft Azure Virtual Training Day: AI Fundamentals](https://events.microsoft.com/en-us/Allevents/?timeperiod=next30Days&isSharedInLocalViewMode=false&search=Microsoft%20Azure%20Virtual%20Training%20Day:%20AI%20Fundamentals)
 - [Study guide for Exam AI-900: 
@@ -27,20 +27,20 @@ Microsoft Azure AI Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api
 - Nederlandse AI Coalitie | [A free online introduction to artificial intelligence for non-experts (elementsofai.com)](https://www.elementsofai.com/?__geom=%E2%9C%AA&_ga=2.54991211.1792081650.1638191894-301432511.1638191894)
 - [AI for Good](https://aiforgood.itu.int/) and [AI for Good - YouTube](https://www.youtube.com/aiforgood)
 
-![image](https://user-images.githubusercontent.com/40343254/150646315-912cea8f-d8e7-4129-9570-cf49f466d154.png)
-[Azure Data Engineer Associate | DP-203 (exam 06-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/e240c667qe7q7w)
+---
+## ![Azure Data Engineer Associate | DP-203 badge](https://user-images.githubusercontent.com/40343254/150646315-912cea8f-d8e7-4129-9570-cf49f466d154.png) [Azure Data Engineer Associate | DP-203 (exam 06-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/e240c667qe7q7w) 
 
-![image](https://user-images.githubusercontent.com/40343254/150646316-e94257ae-e742-4fbd-894d-f8121cace0ba.png)
-[Azure Data Engineer Associate | DP-200+DP-201 (exams 05-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwmkropx5)
+---
+## ![Azure Data Engineer Associate | DP-200+DP-201 badge](https://user-images.githubusercontent.com/40343254/150646316-e94257ae-e742-4fbd-894d-f8121cace0ba.png) [Azure Data Engineer Associate | DP-200+DP-201 (exams 05-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwmkropx5) 
 
-![image](https://user-images.githubusercontent.com/40343254/150646329-2d14fd48-4d6b-4276-8c4d-40e561efc8d6.png)
-[Data Analyst Associate | DA-100 (exam 05-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/r46ka66qq5ge6e)
+---
+## ![Data Analyst Associate | DA-100 badge](https://user-images.githubusercontent.com/40343254/150646329-2d14fd48-4d6b-4276-8c4d-40e561efc8d6.png) [Data Analyst Associate | DA-100 (exam 05-2021)](https://docs.microsoft.com/en-us/users/ingezb/collections/r46ka66qq5ge6e) 
 
-![image](https://user-images.githubusercontent.com/40343254/150646694-234c44e7-3131-47f9-86b0-9dece863189c.png)
-[Azure Data Fundamentals | DP-900 (exam 10-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwg5ny560)
+---
+## ![Azure Data Fundamentals | DP-900 badge](https://user-images.githubusercontent.com/40343254/150646694-234c44e7-3131-47f9-86b0-9dece863189c.png) [Azure Data Fundamentals | DP-900 (exam 10-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwg5ny560) 
 
-![image](https://user-images.githubusercontent.com/40343254/150646705-571bd46f-6e4e-404e-8492-bee9f6298418.png)
-[Azure Database Administrator Associate | DP-300 (exam 09-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/3ng3txx5npz434)
+---
+## ![Azure Database Administrator Associate | DP-300 badge](https://user-images.githubusercontent.com/40343254/150646705-571bd46f-6e4e-404e-8492-bee9f6298418.png) [Azure Database Administrator Associate | DP-300 (exam 09-2020)](https://docs.microsoft.com/en-us/users/ingezb/collections/3ng3txx5npz434) 
 
-![image](https://user-images.githubusercontent.com/40343254/150646713-a123cddb-8aaf-428f-9498-fce7a1a56ce7.png)
-[Azure Fundamentals | AZ-900 (exam 02-2019)](https://docs.microsoft.com/en-us/users/ingezb/collections/m12wu11e8ko38o)
+---
+## ![Azure Fundamentals | AZ-900 badge](https://user-images.githubusercontent.com/40343254/150646713-a123cddb-8aaf-428f-9498-fce7a1a56ce7.png) [Azure Fundamentals | AZ-900 (exam 02-2019)](https://docs.microsoft.com/en-us/users/ingezb/collections/m12wu11e8ko38o) 
