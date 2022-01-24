@@ -7,6 +7,7 @@ Collections in my Microsoft Learn profile and various additional learning toward
 
 [Azure AI Fundamentals | AI-900](https://docs.microsoft.com/en-us/users/ingezb/collections/negmhzzrrw8x41)
   
+- Microsoft Events catalog | [Microsoft Azure Virtual Training Day: AI Fundamentals](https://events.microsoft.com/en-us/Allevents/?timeperiod=next30Days&isSharedInLocalViewMode=false&search=Microsoft%20Azure%20Virtual%20Training%20Day:%20AI%20Fundamentals)
 - [Study guide for Exam AI-900: 
 Microsoft Azure AI Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mypm)
 - Learn Collection | [Build intelligent applications infused with world-class AI](https://docs.microsoft.com/en-us/users/learncol/collections/ozd0u3j4035zem)
