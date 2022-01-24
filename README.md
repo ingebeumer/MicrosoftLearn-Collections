@@ -44,3 +44,5 @@ Microsoft Azure AI Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api
 
 ---
 ## ![Azure Fundamentals | AZ-900 badge](https://user-images.githubusercontent.com/40343254/150646713-a123cddb-8aaf-428f-9498-fce7a1a56ce7.png) [Azure Fundamentals | AZ-900 (exam 02-2019)](https://docs.microsoft.com/en-us/users/ingezb/collections/m12wu11e8ko38o) 
+
+---
