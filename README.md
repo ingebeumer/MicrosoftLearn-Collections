@@ -41,6 +41,7 @@ Microsoft Azure AI Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api
 
 ---
 ## ![Azure Database Administrator Associate | DP-300 badge](https://user-images.githubusercontent.com/40343254/150646705-571bd46f-6e4e-404e-8492-bee9f6298418.png) [Azure Database Administrator Associate | DP-300](https://docs.microsoft.com/en-us/users/ingezb/collections/3ng3txx5npz434) | [certified 09-2020](https://www.credly.com/earner/earned/badge/fa4d4d25-a3be-4f19-91ef-583c52ac1acf)
+- Labs for course [DP-300T00-Administering-Relational-Databases-on-Azure](https://github.com/MicrosoftLearning/DP-300T00-Administering-Relational-Databases-on-Azure)
 
 ---
 ## ![Azure Fundamentals | AZ-900 badge](https://user-images.githubusercontent.com/40343254/150646713-a123cddb-8aaf-428f-9498-fce7a1a56ce7.png) [Azure Fundamentals | AZ-900](https://docs.microsoft.com/en-us/users/ingezb/collections/m12wu11e8ko38o) | [certified 02-2019](https://www.credly.com/earner/earned/badge/ce18faeb-471e-4db2-9492-3fc1771d0429)
