@@ -26,6 +26,8 @@ Microsoft Azure AI Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api
 - Nederlandse AI Coalitie | [De Nationale AI-Cursus – Kunstmatige Intelligentie voor iedereen!](https://www.ai-cursus.nl/)
 - Nederlandse AI Coalitie | [A free online introduction to artificial intelligence for non-experts (elementsofai.com)](https://www.elementsofai.com/?__geom=%E2%9C%AA&_ga=2.54991211.1792081650.1638191894-301432511.1638191894)
 - [AI for Good](https://aiforgood.itu.int/) and [AI for Good - YouTube](https://www.youtube.com/aiforgood)
+- eBook | [AI Strategy](https://worldaicannes.com/ebooks-and-white-papers) by World AI Cannes Festival
+- eBook | [Ethics in AI - the Ultimate Guide](https://worldaicannes.com/ebooks-and-white-papers) by World AI Cannes Festival
 
 ---
 ## ![Azure Data Engineer Associate | DP-203 badge](https://user-images.githubusercontent.com/40343254/150646315-912cea8f-d8e7-4129-9570-cf49f466d154.png) [Azure Data Engineer Associate | DP-203](https://docs.microsoft.com/en-us/users/ingezb/collections/e240c667qe7q7w) | exam 06-2021
