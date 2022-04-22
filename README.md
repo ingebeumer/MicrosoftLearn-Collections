@@ -37,6 +37,7 @@ Microsoft Azure AI Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api
 
 ---
 ## ![Data Analyst Associate | DA-100 badge](https://user-images.githubusercontent.com/40343254/150646329-2d14fd48-4d6b-4276-8c4d-40e561efc8d6.png) [Data Analyst Associate | DA-100](https://docs.microsoft.com/en-us/users/ingezb/collections/r46ka66qq5ge6e) | [certified 05-2021](https://www.credly.com/earner/earned/badge/846732de-93bf-4812-9146-6ecbc13900a7)
+Early 2022 the certification was renamed from Data Analyst Associate to Power BI Data Analyst Associate. DA-100 exam is replaced by PL-300 exam.
 
 ---
 ## ![Azure Data Fundamentals | DP-900 badge](https://user-images.githubusercontent.com/40343254/150646694-234c44e7-3131-47f9-86b0-9dece863189c.png) [Azure Data Fundamentals | DP-900](https://docs.microsoft.com/en-us/users/ingezb/collections/j20ycwwg5ny560) | [certified 10-2020](https://www.credly.com/earner/earned/badge/37600f7a-97f1-491f-a9a8-050492157f40)
